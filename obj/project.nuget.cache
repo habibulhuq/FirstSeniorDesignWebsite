@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmHC8LFOBXh4iUsHm9GieeuFVHg8UEh1F4jORr/hwoyLFlvk2+7zByfvGGll0lP+nLH8FI+YpsN6PcEljBwqNQ==",
+  "success": true,
+  "projectFilePath": "/Users/habibulhuq/Desktop/FirstSeniorDesignWebsite/RazorPagesMovie/RazorPagesMovie.csproj",
+  "expectedPackageFiles": [
+    "/Users/habibulhuq/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/habibulhuq/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/habibulhuq/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
