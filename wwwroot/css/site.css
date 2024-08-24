@@ -1,0 +1,108 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #1f1e1e;
+  color: #CCCCCC;
+
+}
+
+
+
+nav {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  
+}
+
+/*
+nav {
+  font-weight: bold;
+  padding-right: 5px;
+  width: 160px;
+  float: left;
+  padding-bottom: 50%;
+}
+*/
+
+nav ul {
+  padding-left: 2em;
+  padding-right: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  font-size: 30px;
+}
+
+nav li {
+  border-bottom-color: #330000;
+  display: inline-block;
+  margin: 0;
+  padding: 9px;
+}
+
+nav a:hover {
+  color: #7ea882;
+}
+
+/* How the nav words look without hovering over it it*/
+nav a {
+  text-decoration: none;
+  color: #CCCCCC;
+
+}
+
+h1{
+  color: #7ea882;
+}
+
+a {
+  color: #CCCCCC;
+}
+a:hover{
+  color: #7ea882;
+}
+
+main {
+  padding-bottom: 10px;
+  /* change padding when needed*/
+  display: block;
+  backgroundrgb: (44, 45, 44) #FFFFFF;
+
+}
+
+
+img {
+  /*box-shadow: 3px 3px 1px grey;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;*/
+}
+
+
+footer {
+  font-weight: .50em;
+  font-family: italic;
+  text-align: center;
+  margin-top: 1em
+}
