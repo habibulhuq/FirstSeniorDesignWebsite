@@ -1,2 +1,2 @@
 # SeniorDesign
-My test and trials for my SeniorDesign project
+My First Website design for my senior design project
